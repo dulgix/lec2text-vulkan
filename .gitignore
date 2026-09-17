@@ -1,0 +1,19 @@
+faide/
+result/
+
+__pycache__/
+*.pyc
+
+venv/
+.env/
+
+
+.DS_Store
+Thumbs.db
+
+*.mp4
+
+# Vulkan whisper.cpp 설치 산출물 (setup_vulkan.ps1이 생성)
+bin/
+models/
+.vendor/
